@@ -1,6 +1,6 @@
 ---
 title: 'Hack The MAC Address'
-date: '2012-02-03'
+date: '2022-02-03'
 tags: ['hacking', 'basic', 'networking']
 draft: false
 summary: 'MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device...'
