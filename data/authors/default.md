@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Shakhawat
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student
+company: No Company
+email: mail@shakhawat.me
+twitter: https://twitter.com/0xShakhawat
+linkedin: https://www.linkedin.com/in/0xShakhawat
+github: https://github.com/0xShakhawat
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+…and I work for Cyber Security Research.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+People find me enthusiastic and friendly. Sharing knowledge is my passion. My biggest strength is – I am a quick self-learner. Computer technology is my play ground. I’m a programmer and content creator. I am compassionate, I can put myself in others’ shoes. Having this ability gave me a whole new perspective to look at things.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I prefer giving over taking. They say that I have a good sense of humor too. In case you are wondering, my personality type is “INFP” (Google it, if you don’t know what that means). And, one last thing, I love my family more than anything.
