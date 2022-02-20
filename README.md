@@ -7,8 +7,8 @@
 
 .
 
-<a href="https://shakhawat.me" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fshakhawat.me&logo=github&style=flat-square" />
+<a href="https://blog.shakhawat.me" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fblog.shakhawat.me&logo=github&style=flat-square" />
 </a>
 
 .
