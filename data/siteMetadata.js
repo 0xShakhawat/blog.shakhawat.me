@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Shakhawat\'s Blog',
   author: 'Shakhawat',
   headerTitle: 'Shakhawat\'s Blog',
-  description: 'a passionate Security Researcher, Creator, and Technology Enthusiast.',
+  description: 'a Passionate Security Researcher, Creator, and Technology Enthusiast.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.shakhawat.me',
